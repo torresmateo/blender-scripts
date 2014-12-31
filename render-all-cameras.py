@@ -1,14 +1,3 @@
-#!BPY
-
-#
-# This script renders scene from all cameras and stores
-# result to <path-of-blend-file>/render
-#
-# Copyright (C) 2009 Sergey I. Sharybin <g.ulairi@gmail.com>
-#
-# This script is covered by GNU General Public License v2 and higher
-#
-
 import bpy
 import os
 import sys
